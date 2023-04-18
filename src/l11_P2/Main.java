@@ -10,6 +10,5 @@ public class Main {
         Triangle triangle = new Triangle(scanner.nextDouble(),scanner.nextDouble(), scanner.nextDouble());
         scanner.close();
         triangle.calculateAll();
-        System.out.println("aaaa");
     }
 }
